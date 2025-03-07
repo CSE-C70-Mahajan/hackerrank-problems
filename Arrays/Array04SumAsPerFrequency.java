@@ -1,7 +1,9 @@
+package Arrays;
+
 import java.io.*;
 import java.util.*;
 
-class TestClass {
+class Array04SumAsPerFrequency {
     public static void main(String args[]) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine().trim());
