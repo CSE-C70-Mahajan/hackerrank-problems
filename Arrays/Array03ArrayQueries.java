@@ -1,7 +1,7 @@
-
+package Arrays;
 import java.io.*;
 
-public class TestClass {
+public class Array03ArrayQueries {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter wr = new PrintWriter(System.out);
